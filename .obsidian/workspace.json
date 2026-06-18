@@ -1,0 +1,225 @@
+{
+  "main": {
+    "id": "350bb39f42b6c45b",
+    "type": "split",
+    "children": [
+      {
+        "id": "fa17a1266760b979",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4494ef6097dfdb5d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1- Program Structure And Execution/1- Representing and Manipulating Informations/2.1- Asides.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2.1- Asides"
+            }
+          },
+          {
+            "id": "6b14911354465ee9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1- Program Structure And Execution/1- Representing and Manipulating Informations/2- Integer representation.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2- Integer representation"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "d6f9a0cb6bf1e740",
+    "type": "split",
+    "children": [
+      {
+        "id": "a906d8f944a3a3ef",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "33a43273735f4c0e",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "85e1755ff2ce3ac3",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "b4385009b9f29a0a",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200,
+    "collapsed": true
+  },
+  "right": {
+    "id": "2da8473828de00a1",
+    "type": "split",
+    "children": [
+      {
+        "id": "79c34f0dec7bc5a1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "87fc54f75e15eb38",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "1- Program Structure And Execution/1- Representing and Manipulating Informations/2- Integer representation.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for 2- Integer representation"
+            }
+          },
+          {
+            "id": "20601f596b55758c",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "1- Program Structure And Execution/1- Representing and Manipulating Informations/2- Integer representation.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from 2- Integer representation"
+            }
+          },
+          {
+            "id": "3c5f5ee6f8086613",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "07eac2ef9959cc90",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "865f4886e9f64bf4",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "1- Program Structure And Execution/1- Representing and Manipulating Informations/2- Integer representation.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of 2- Integer representation"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "6b14911354465ee9",
+  "lastOpenFiles": [
+    "Attachements/Pasted image 20260618091551.png",
+    "1- Program Structure And Execution/1- Representing and Manipulating Informations/2.1- Asides.md",
+    "1- Program Structure And Execution/1- Representing and Manipulating Informations/2- Integer representation.md",
+    "2.1-.md",
+    "[[2.1-.md",
+    "Attachements/Pasted image 20260618090055.png",
+    "Attachements/Pasted image 20260618085211.png",
+    "Pasted image 20260618085152.png",
+    "Attachements/Pasted image 20260618084856.png",
+    "Attachements/Pasted image 20260618084641.png",
+    "Attachements/Pasted image 20260618084409.png",
+    "Attachements/Pasted image 20260618084133.png",
+    "Attachements/Pasted image 20260618083557.png",
+    "Attachements/Pasted image 20260618083336.png",
+    "Attachements/Pasted image 20260618083148.png",
+    "Attachements",
+    "1- Program Structure And Execution/1- Representing and Manipulating Informations/1- Information Storage.md",
+    "Welcome.md",
+    "1- Program Structure And Execution/1- Representing and Manipulating Informations",
+    "1- Program Structure And Execution"
+  ]
+}
