@@ -93,7 +93,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "2da8473828de00a1",
@@ -200,6 +201,8 @@
   },
   "active": "6b14911354465ee9",
   "lastOpenFiles": [
+    "Attachements/Pasted image 20260619205410.png",
+    "Attachements/Pasted image 20260619201634.png",
     "1- Program Structure And Execution/1- Representing and Manipulating Informations/1- Information Storage.md",
     "Untitled.base",
     "1- Program Structure And Execution/1- Representing and Manipulating Informations/2- Integer representation.md",
@@ -215,7 +218,6 @@
     "Attachements/Pasted image 20260618084409.png",
     "Attachements/Pasted image 20260618084133.png",
     "Attachements/Pasted image 20260618083557.png",
-    "Attachements/Pasted image 20260618083336.png",
     "Attachements",
     "Welcome.md",
     "1- Program Structure And Execution/1- Representing and Manipulating Informations",
