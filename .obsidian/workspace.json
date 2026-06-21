@@ -8,35 +8,34 @@
         "type": "tabs",
         "children": [
           {
-            "id": "4494ef6097dfdb5d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1- Program Structure And Execution/1- Representing and Manipulating Informations/2.1- Asides.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "2.1- Asides"
-            }
-          },
-          {
             "id": "6b14911354465ee9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1- Program Structure And Execution/1- Representing and Manipulating Informations/2- Integer representation.md",
+                "file": "1- Program Structure And Execution/1- Representing and Manipulating Informations/2- Integer Representation/7- Expending the Bit representation of a Number.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2- Integer representation"
+              "title": "7- Expending the Bit representation of a Number"
+            }
+          },
+          {
+            "id": "662cb65c86c3d6d9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1- Program Structure And Execution/1- Representing and Manipulating Informations/2- Integer Representation/4- Twos complement encoding.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "4- Twos complement encoding"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -93,7 +92,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
+    "width": 330.5,
     "collapsed": true
   },
   "right": {
@@ -201,11 +200,22 @@
   },
   "active": "6b14911354465ee9",
   "lastOpenFiles": [
+    "1- Program Structure And Execution/1- Representing and Manipulating Informations/2- Integer Representation/4- Twos complement encoding.md",
+    "1- Program Structure And Execution/1- Representing and Manipulating Informations/2- Integer Representation/3- Unsigned encoding.md",
+    "1- Program Structure And Execution/1- Representing and Manipulating Informations/2- Integer Representation/7- Expending the Bit representation of a Number.md",
+    "1- Program Structure And Execution/1- Representing and Manipulating Informations/1- Information Storage/1- Information Storage.md",
+    "1- Program Structure And Execution/1- Representing and Manipulating Informations/2- Integer Representation/6- Signed Vs Unsigned in C.md",
+    "1- Program Structure And Execution/1- Representing and Manipulating Informations/2- Integer Representation/5- Conversion between signed and unsigned.md",
+    "1- Program Structure And Execution/1- Representing and Manipulating Informations/2- Integer Representation/2- Integral Data type.md",
+    "1- Program Structure And Execution/1- Representing and Manipulating Informations/2- Integer Representation/1- Integer representation.md",
+    "1- Program Structure And Execution/1- Representing and Manipulating Informations/2- Integer Representation",
+    "1- Program Structure And Execution/1- Representing and Manipulating Informations/1- Information Storage",
+    "Attachements/Pasted image 20260621120824.png",
+    "Attachements/Pasted image 20260621100838.png",
+    "Attachements/Pasted image 20260621100806.png",
     "Attachements/Pasted image 20260619205410.png",
     "Attachements/Pasted image 20260619201634.png",
-    "1- Program Structure And Execution/1- Representing and Manipulating Informations/1- Information Storage.md",
     "Untitled.base",
-    "1- Program Structure And Execution/1- Representing and Manipulating Informations/2- Integer representation.md",
     "Attachements/Pasted image 20260618091551.png",
     "1- Program Structure And Execution/1- Representing and Manipulating Informations/2.1- Asides.md",
     "2.1-.md",
@@ -214,10 +224,6 @@
     "Attachements/Pasted image 20260618085211.png",
     "Pasted image 20260618085152.png",
     "Attachements/Pasted image 20260618084856.png",
-    "Attachements/Pasted image 20260618084641.png",
-    "Attachements/Pasted image 20260618084409.png",
-    "Attachements/Pasted image 20260618084133.png",
-    "Attachements/Pasted image 20260618083557.png",
     "Attachements",
     "Welcome.md",
     "1- Program Structure And Execution/1- Representing and Manipulating Informations",

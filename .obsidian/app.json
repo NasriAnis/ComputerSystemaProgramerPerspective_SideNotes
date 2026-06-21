@@ -4,5 +4,5 @@
   "attachmentFolderPath": "Attachements",
   "promptDelete": false,
   "useMarkdownLinks": true,
-  "vimMode": true
+  "vimMode": false
 }
