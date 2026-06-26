@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1- Program Structure And Execution/1- Representing and Manipulating Informations/2- Integer Representation/9- Last words.md",
+                "file": "1- Program Structure And Execution/1- Representing and Manipulating Informations/3- Integer Arithmetic/3- Two's Complement addition.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "9- Last words"
+              "title": "3- Two's Complement addition"
             }
           },
           {
@@ -92,7 +92,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 332.5
+    "width": 275.5,
+    "collapsed": true
   },
   "right": {
     "id": "2da8473828de00a1",
@@ -199,32 +200,37 @@
   },
   "active": "6b14911354465ee9",
   "lastOpenFiles": [
-    "1- Program Structure And Execution/1- Representing and Manipulating Informations/2- Integer Representation/6- Signed Vs Unsigned in C.md",
+    "Attachements/Pasted image 20260626065603.png",
+    "Attachements/Pasted image 20260626064946.png",
+    "Attachements/Pasted image 20260626061302.png",
+    "1- Program Structure And Execution/1- Representing and Manipulating Informations/2- Integer Representation/5- Conversion between signed and unsigned.md",
+    "1- Program Structure And Execution/1- Representing and Manipulating Informations/3- Integer Arithmetic/3- Two's Complement addition.md",
+    "Attachements/Pasted image 20260624123159.png",
+    "Attachements/Pasted image 20260624123008.png",
+    "Attachements/Pasted image 20260624122211.png",
+    "1- Program Structure And Execution/1- Representing and Manipulating Informations/3- Integer Arithmetic/2- Unsigned negation.md",
+    "Attachements/Pasted image 20260624121537.png",
+    "1- Program Structure And Execution/1- Representing and Manipulating Informations/3- Integer Arithmetic/1- Unsigned addition.md",
+    "Attachements/Pasted image 20260623154813.png",
+    "Attachements/Pasted image 20260623154626.png",
+    "Attachements/Pasted image 20260623154425.png",
     "1- Program Structure And Execution/1- Representing and Manipulating Informations/2- Integer Representation/9- Last words.md",
+    "1- Program Structure And Execution/1- Representing and Manipulating Informations/3- Integer Arithmetic",
+    "1- Program Structure And Execution/1- Representing and Manipulating Informations/2- Integer Representation/6- Signed Vs Unsigned in C.md",
     "1- Program Structure And Execution/1- Representing and Manipulating Informations/2- Integer Representation/8- Truncating numbers.md",
     "1- Program Structure And Execution/1- Representing and Manipulating Informations/2- Integer Representation/7- Expending the Bit representation of a Number.md",
     "1- Program Structure And Execution/1- Representing and Manipulating Informations/2- Integer Representation/4- Twos complement encoding.md",
     "1- Program Structure And Execution/1- Representing and Manipulating Informations/2- Integer Representation/3- Unsigned encoding.md",
     "1- Program Structure And Execution/1- Representing and Manipulating Informations/1- Information Storage/1- Information Storage.md",
-    "1- Program Structure And Execution/1- Representing and Manipulating Informations/2- Integer Representation/5- Conversion between signed and unsigned.md",
     "1- Program Structure And Execution/1- Representing and Manipulating Informations/2- Integer Representation/2- Integral Data type.md",
     "1- Program Structure And Execution/1- Representing and Manipulating Informations/2- Integer Representation/1- Integer representation.md",
     "1- Program Structure And Execution/1- Representing and Manipulating Informations/2- Integer Representation",
     "1- Program Structure And Execution/1- Representing and Manipulating Informations/1- Information Storage",
     "Attachements/Pasted image 20260621120824.png",
-    "Attachements/Pasted image 20260621100838.png",
-    "Attachements/Pasted image 20260621100806.png",
-    "Attachements/Pasted image 20260619205410.png",
-    "Attachements/Pasted image 20260619201634.png",
     "Untitled.base",
-    "Attachements/Pasted image 20260618091551.png",
     "1- Program Structure And Execution/1- Representing and Manipulating Informations/2.1- Asides.md",
     "2.1-.md",
     "[[2.1-.md",
-    "Attachements/Pasted image 20260618090055.png",
-    "Attachements/Pasted image 20260618085211.png",
-    "Pasted image 20260618085152.png",
-    "Attachements/Pasted image 20260618084856.png",
     "Attachements",
     "Welcome.md",
     "1- Program Structure And Execution/1- Representing and Manipulating Informations",
