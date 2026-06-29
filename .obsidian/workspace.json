@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1- Program Structure And Execution/1- Representing and Manipulating Informations/3- Integer Arithmetic/4- Note about signed and unsigned addition.md",
+                "file": "1- Program Structure And Execution/1- Representing and Manipulating Informations/3- Integer Arithmetic/5- Twos Complement negation.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "4- Note about signed and unsigned addition"
+              "title": "5- Twos Complement negation"
             }
           },
           {
@@ -27,15 +27,16 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1- Program Structure And Execution/1- Representing and Manipulating Informations/2- Integer Representation/4- Twos complement encoding.md",
+                "file": "1- Program Structure And Execution/1- Representing and Manipulating Informations/3- Integer Arithmetic/7- Twos complement multiplication.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "4- Twos complement encoding"
+              "title": "7- Twos complement multiplication"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -197,17 +198,24 @@
       "bases:Create new base": false
     }
   },
-  "active": "6b14911354465ee9",
+  "active": "662cb65c86c3d6d9",
   "lastOpenFiles": [
+    "Attachements/Pasted image 20260629075428.png",
+    "1- Program Structure And Execution/1- Representing and Manipulating Informations/3- Integer Arithmetic/6- Unsigned multiplication.md",
+    "1- Program Structure And Execution/1- Representing and Manipulating Informations/3- Integer Arithmetic/7- Twos complement multiplication.md",
+    "Attachements/Pasted image 20260629075019.png",
+    "Attachements/Pasted image 20260629074255.png",
+    "1- Program Structure And Execution/1- Representing and Manipulating Informations/3- Integer Arithmetic/5- Twos Complement negation.md",
+    "1- Program Structure And Execution/1- Representing and Manipulating Informations/3- Integer Arithmetic/2- Unsigned negation.md",
+    "1- Program Structure And Execution/1- Representing and Manipulating Informations/2- Integer Representation/4- Twos complement encoding.md",
+    "Attachements/Pasted image 20260629072104.png",
+    "1- Program Structure And Execution/1- Representing and Manipulating Informations/3- Integer Arithmetic/4- Note about signed and unsigned addition.md",
     "C/tadd_ok.c~",
     "C/makefile~",
     "1- Program Structure And Execution/1- Representing and Manipulating Informations/3- Integer Arithmetic/3- Two's Complement addition.md",
-    "1- Program Structure And Execution/1- Representing and Manipulating Informations/3- Integer Arithmetic/4- Note about signed and unsigned addition.md",
-    "1- Program Structure And Execution/1- Representing and Manipulating Informations/3- Integer Arithmetic/2- Unsigned negation.md",
     "C/abelian_tadd.c~",
     "C/a.out",
     "C/abelian_tadd.c",
-    "1- Program Structure And Execution/1- Representing and Manipulating Informations/2- Integer Representation/4- Twos complement encoding.md",
     "C/makefile",
     "C/tadd_ok.c",
     "C/xor-rev-set.c",
@@ -222,9 +230,6 @@
     "Attachements/Pasted image 20260624122211.png",
     "Attachements/Pasted image 20260624121537.png",
     "1- Program Structure And Execution/1- Representing and Manipulating Informations/3- Integer Arithmetic/1- Unsigned addition.md",
-    "Attachements/Pasted image 20260623154813.png",
-    "Attachements/Pasted image 20260623154626.png",
-    "Attachements/Pasted image 20260623154425.png",
     "1- Program Structure And Execution/1- Representing and Manipulating Informations/2- Integer Representation/9- Last words.md",
     "1- Program Structure And Execution/1- Representing and Manipulating Informations/2- Integer Representation/6- Signed Vs Unsigned in C.md",
     "1- Program Structure And Execution/1- Representing and Manipulating Informations/2- Integer Representation/8- Truncating numbers.md",
