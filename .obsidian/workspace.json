@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1- Program Structure And Execution/1- Representing and Manipulating Informations/3- Integer Arithmetic/7- Twos complement multiplication.md",
+                "file": "1- Program Structure And Execution/1- Representing and Manipulating Informations/3- Integer Arithmetic/8- Multiplying by a Constant.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "7- Twos complement multiplication"
+              "title": "8- Multiplying by a Constant"
             }
           }
         ],
@@ -200,9 +200,14 @@
   },
   "active": "662cb65c86c3d6d9",
   "lastOpenFiles": [
+    "1- Program Structure And Execution/1- Representing and Manipulating Informations/3- Integer Arithmetic/Untitled.md",
+    "1- Program Structure And Execution/1- Representing and Manipulating Informations/3- Integer Arithmetic/8- Multiplying by a Constant.md",
+    "Attachements/Pasted image 20260702090820.png",
+    "Attachements/Pasted image 20260702084554.png",
+    "Attachements/Pasted image 20260702084412.png",
+    "1- Program Structure And Execution/1- Representing and Manipulating Informations/3- Integer Arithmetic/7- Twos complement multiplication.md",
     "Attachements/Pasted image 20260629075428.png",
     "1- Program Structure And Execution/1- Representing and Manipulating Informations/3- Integer Arithmetic/6- Unsigned multiplication.md",
-    "1- Program Structure And Execution/1- Representing and Manipulating Informations/3- Integer Arithmetic/7- Twos complement multiplication.md",
     "Attachements/Pasted image 20260629075019.png",
     "Attachements/Pasted image 20260629074255.png",
     "1- Program Structure And Execution/1- Representing and Manipulating Informations/3- Integer Arithmetic/5- Twos Complement negation.md",
@@ -225,10 +230,6 @@
     "Attachements/Pasted image 20260626064946.png",
     "Attachements/Pasted image 20260626061302.png",
     "1- Program Structure And Execution/1- Representing and Manipulating Informations/2- Integer Representation/5- Conversion between signed and unsigned.md",
-    "Attachements/Pasted image 20260624123159.png",
-    "Attachements/Pasted image 20260624123008.png",
-    "Attachements/Pasted image 20260624122211.png",
-    "Attachements/Pasted image 20260624121537.png",
     "1- Program Structure And Execution/1- Representing and Manipulating Informations/3- Integer Arithmetic/1- Unsigned addition.md",
     "1- Program Structure And Execution/1- Representing and Manipulating Informations/2- Integer Representation/9- Last words.md",
     "1- Program Structure And Execution/1- Representing and Manipulating Informations/2- Integer Representation/6- Signed Vs Unsigned in C.md",
