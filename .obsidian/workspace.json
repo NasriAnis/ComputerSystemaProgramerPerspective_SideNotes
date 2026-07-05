@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1- Program Structure And Execution/1- Representing and Manipulating Informations/3- Integer Arithmetic/9- Dividing by power of 2.md",
+                "file": "1- Program Structure And Execution/1- Representing and Manipulating Informations/4- Floating Points/1- Fractional Binary Numbers.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "9- Dividing by power of 2"
+              "title": "1- Fractional Binary Numbers"
             }
           }
         ],
@@ -200,11 +200,18 @@
   },
   "active": "662cb65c86c3d6d9",
   "lastOpenFiles": [
+    "1- Program Structure And Execution/1- Representing and Manipulating Informations/4- Floating Points/1- Intro.md",
+    "1- Program Structure And Execution/1- Representing and Manipulating Informations/4- Floating Points/1- Fractional Binary Numbers.md",
+    "1- Program Structure And Execution/1- Representing and Manipulating Informations/3- Integer Arithmetic/8- Multiplying by a Constant.md",
+    "1- Program Structure And Execution/1- Representing and Manipulating Informations/4- Floating Points",
+    "1- Program Structure And Execution/1- Representing and Manipulating Informations/3- Integer Arithmetic/9- Dividing by power of 2.md",
+    "C/a.out",
+    "C/div16.c",
+    "div16.c",
+    "Attachements/Pasted image 20260705084737.png",
     "Attachements/Pasted image 20260704085420.png",
     "Attachements/Pasted image 20260704083833.png",
     "Attachements/Pasted image 20260703164754.png",
-    "1- Program Structure And Execution/1- Representing and Manipulating Informations/3- Integer Arithmetic/8- Multiplying by a Constant.md",
-    "1- Program Structure And Execution/1- Representing and Manipulating Informations/3- Integer Arithmetic/9- Dividing by power of 2.md",
     "Attachements/Pasted image 20260702090820.png",
     "Attachements/Pasted image 20260702084554.png",
     "Attachements/Pasted image 20260702084412.png",
@@ -216,20 +223,14 @@
     "1- Program Structure And Execution/1- Representing and Manipulating Informations/3- Integer Arithmetic/5- Twos Complement negation.md",
     "1- Program Structure And Execution/1- Representing and Manipulating Informations/3- Integer Arithmetic/2- Unsigned negation.md",
     "1- Program Structure And Execution/1- Representing and Manipulating Informations/2- Integer Representation/4- Twos complement encoding.md",
-    "Attachements/Pasted image 20260629072104.png",
     "1- Program Structure And Execution/1- Representing and Manipulating Informations/3- Integer Arithmetic/4- Note about signed and unsigned addition.md",
     "C/tadd_ok.c~",
     "C/makefile~",
     "1- Program Structure And Execution/1- Representing and Manipulating Informations/3- Integer Arithmetic/3- Two's Complement addition.md",
     "C/abelian_tadd.c~",
-    "C/a.out",
     "C/abelian_tadd.c",
     "C/makefile",
     "C/tadd_ok.c",
-    "C/xor-rev-set.c",
-    "C/uadd_ok.c",
-    "C/stdint_test.c",
-    "Attachements/Pasted image 20260626065603.png",
     "1- Program Structure And Execution/1- Representing and Manipulating Informations/2- Integer Representation/5- Conversion between signed and unsigned.md",
     "1- Program Structure And Execution/1- Representing and Manipulating Informations/3- Integer Arithmetic/1- Unsigned addition.md",
     "1- Program Structure And Execution/1- Representing and Manipulating Informations/2- Integer Representation/9- Last words.md",

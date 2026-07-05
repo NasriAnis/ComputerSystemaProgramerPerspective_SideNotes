@@ -38,6 +38,8 @@ For cases when no rounding is required (k=1) the result will be $x/2^k$, however
 We can correct for the improper rounding that occurs when a negative number
 is shifted right by “biasing” the value before shifting.
 
+![](../../../Attachements/Pasted%20image%2020260705084737.png)
+
 Let C variables x and k have two’s-complement value x and unsigned value k, respectively, such that 0 ≤ k < w. The C expression (x + ==(1 << k) - 1==) >> k, when the shift is performed arithmetically, yields the value $\lceil x/2^k \rceil$.
 
 This figure shows how the shifts are correct now when adding the bias :
@@ -55,3 +57,9 @@ These analyses show that for a two’s-complement machine using arithmetic right
 ```
 
 will compute the value $x/2^k$ .
+
+the implementation for signed numbers can be found there [div16](../../../C/div16.c)
+
+---
+
+Unlike multiplication division by arbitrary numbers is not possible only $2^k$. This is not possible in div : $x * 14 = x * (8 + 4 + 2) = (x << 3) + (x << 2) + (x << 1)$.
