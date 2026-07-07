@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1- Program Structure And Execution/1- Representing and Manipulating Informations/4- Floating Points/1- Fractional Binary Numbers.md",
+                "file": "1- Program Structure And Execution/1- Representing and Manipulating Informations/4- Floating Points/3- IEEE floating point representation.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1- Fractional Binary Numbers"
+              "title": "3- IEEE floating point representation"
             }
           }
         ],
@@ -200,13 +200,15 @@
   },
   "active": "662cb65c86c3d6d9",
   "lastOpenFiles": [
+    "Attachements/Pasted image 20260707100305.png",
+    "1- Program Structure And Execution/1- Representing and Manipulating Informations/4- Floating Points/2- Fractional Binary Numbers.md",
+    "1- Program Structure And Execution/1- Representing and Manipulating Informations/4- Floating Points/3- IEEE floating point representation.md",
     "Attachements/Pasted image 20260706125741.png",
     "Attachements/Pasted image 20260706123834.png",
     "Attachements/Pasted image 20260706123827.png",
     "Attachements/Pasted image 20260706123337.png",
     "Attachements/Pasted image 20260706123250.png",
     "1- Program Structure And Execution/1- Representing and Manipulating Informations/4- Floating Points/1- Intro.md",
-    "1- Program Structure And Execution/1- Representing and Manipulating Informations/4- Floating Points/1- Fractional Binary Numbers.md",
     "1- Program Structure And Execution/1- Representing and Manipulating Informations/3- Integer Arithmetic/8- Multiplying by a Constant.md",
     "1- Program Structure And Execution/1- Representing and Manipulating Informations/4- Floating Points",
     "1- Program Structure And Execution/1- Representing and Manipulating Informations/3- Integer Arithmetic/9- Dividing by power of 2.md",
@@ -218,7 +220,6 @@
     "Attachements/Pasted image 20260704083833.png",
     "Attachements/Pasted image 20260703164754.png",
     "Attachements/Pasted image 20260702090820.png",
-    "Attachements/Pasted image 20260702084554.png",
     "1- Program Structure And Execution/1- Representing and Manipulating Informations/3- Integer Arithmetic/7- Twos complement multiplication.md",
     "1- Program Structure And Execution/1- Representing and Manipulating Informations/3- Integer Arithmetic/6- Unsigned multiplication.md",
     "1- Program Structure And Execution/1- Representing and Manipulating Informations/3- Integer Arithmetic/5- Twos Complement negation.md",
@@ -244,7 +245,6 @@
     "1- Program Structure And Execution/1- Representing and Manipulating Informations/2- Integer Representation/1- Integer representation.md",
     "1- Program Structure And Execution/1- Representing and Manipulating Informations/2.1- Asides.md",
     "2.1-.md",
-    "[[2.1-.md",
-    "Welcome.md"
+    "[[2.1-.md"
   ]
 }
