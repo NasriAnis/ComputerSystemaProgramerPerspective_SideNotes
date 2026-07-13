@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1- Program Structure And Execution/2- Machine level representation/1- Program encodings/2- Machine level code.md",
+                "file": "1- Program Structure And Execution/2- Machine level representation/1- Program encodings/3- Code examples.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2- Machine level code"
+              "title": "3- Code examples"
             }
           }
         ],
@@ -200,9 +200,17 @@
   },
   "active": "662cb65c86c3d6d9",
   "lastOpenFiles": [
+    "1- Program Structure And Execution/2- Machine level representation/2- Data formats/Untitled.md",
+    "1- Program Structure And Execution/2- Machine level representation/1- Program encodings/3- Code examples.md",
+    "1- Program Structure And Execution/2- Machine level representation/2- Data formats",
+    "Attachements/Pasted image 20260713111322.png",
+    "Attachements/Pasted image 20260713111045.png",
+    "1- Program Structure And Execution/2- Machine level representation/1- Program encodings/4- Notes on formating.md",
+    "Attachements/Pasted image 20260713110006.png",
+    "Attachements/Pasted image 20260713105919.png",
+    "1- Program Structure And Execution/2- Machine level representation/1- Program encodings/2- Machine level code.md",
     "Attachements/Pasted image 20260712094611.png",
     "1- Program Structure And Execution/2- Machine level representation/1- Program encodings/1- intro.md",
-    "1- Program Structure And Execution/2- Machine level representation/1- Program encodings/2- Machine level code.md",
     "1- Program Structure And Execution/1- Representing and Manipulating Informations/4- Floating Points/6- Floating point in C.md",
     "1- Program Structure And Execution/2- Machine level representation/1- Program encodings",
     "1- Program Structure And Execution/2- Machine level representation",
@@ -214,11 +222,6 @@
     "Attachements/Pasted image 20260709100838.png",
     "1- Program Structure And Execution/1- Representing and Manipulating Informations/4- Floating Points/3- IEEE floating point representation.md",
     "Attachements/Pasted image 20260709094019.png",
-    "Attachements/Pasted image 20260709092527.png",
-    "Attachements/Pasted image 20260708062906.png",
-    "Attachements/Pasted image 20260708061835.png",
-    "Attachements/Pasted image 20260708061325.png",
-    "Attachements/Pasted image 20260707100305.png",
     "1- Program Structure And Execution/1- Representing and Manipulating Informations/4- Floating Points/2- Fractional Binary Numbers.md",
     "1- Program Structure And Execution/1- Representing and Manipulating Informations/4- Floating Points/1- Intro.md",
     "1- Program Structure And Execution/1- Representing and Manipulating Informations/3- Integer Arithmetic/8- Multiplying by a Constant.md",
@@ -237,14 +240,11 @@
     "C/makefile~",
     "1- Program Structure And Execution/1- Representing and Manipulating Informations/3- Integer Arithmetic/3- Two's Complement addition.md",
     "C/abelian_tadd.c~",
-    "C/abelian_tadd.c",
     "1- Program Structure And Execution/1- Representing and Manipulating Informations/2- Integer Representation/5- Conversion between signed and unsigned.md",
     "1- Program Structure And Execution/1- Representing and Manipulating Informations/3- Integer Arithmetic/1- Unsigned addition.md",
     "1- Program Structure And Execution/1- Representing and Manipulating Informations/2- Integer Representation/9- Last words.md",
     "1- Program Structure And Execution/1- Representing and Manipulating Informations/2- Integer Representation/6- Signed Vs Unsigned in C.md",
     "1- Program Structure And Execution/1- Representing and Manipulating Informations/2- Integer Representation/8- Truncating numbers.md",
-    "1- Program Structure And Execution/1- Representing and Manipulating Informations/2- Integer Representation/7- Expending the Bit representation of a Number.md",
-    "1- Program Structure And Execution/1- Representing and Manipulating Informations/2- Integer Representation/3- Unsigned encoding.md",
-    "1- Program Structure And Execution/1- Representing and Manipulating Informations/1- Information Storage/1- Information Storage.md"
+    "1- Program Structure And Execution/1- Representing and Manipulating Informations/2- Integer Representation/7- Expending the Bit representation of a Number.md"
   ]
 }
