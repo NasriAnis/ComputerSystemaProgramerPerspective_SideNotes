@@ -1,0 +1,3 @@
+![](../../../Attachements/Pasted%20image%2020260714172936.png)
+
+The original 8086 had eight 16-bit registers, shown in Figure 3.2 as registers %ax through %bp. With the extension to IA32, these registers were expanded to 32-bit registers, labeled %eax through %ebp. In the extension to x86-64, the original eight registers were expanded to 64 bits, labeled %rax through %rbp. In addition, eight new registers were added, and these were given labels according to a new naming convention: %r8 through %r15.
