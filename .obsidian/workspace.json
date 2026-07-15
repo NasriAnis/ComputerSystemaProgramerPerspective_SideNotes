@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1- Program Structure And Execution/1- Representing and Manipulating Informations/3- Integer Arithmetic/5- Twos Complement negation.md",
+                "file": "1- Program Structure And Execution/2- Machine level representation/3- Accessing information/4- Data movement examples.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "5- Twos Complement negation"
+              "title": "4- Data movement examples"
             }
           },
           {
@@ -35,8 +35,7 @@
               "title": "3- Data Movement instructions"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -93,8 +92,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 275.5,
-    "collapsed": true
+    "width": 275.5
   },
   "right": {
     "id": "2da8473828de00a1",
@@ -199,34 +197,36 @@
       "bases:Create new base": false
     }
   },
-  "active": "662cb65c86c3d6d9",
+  "active": "6b14911354465ee9",
   "lastOpenFiles": [
-    "Attachements/Pasted image 20260714180002.png",
-    "1- Program Structure And Execution/2- Machine level representation/3- Accessing information/2- Operand specifiers.md",
-    "1- Program Structure And Execution/2- Machine level representation/3- Accessing information/3- Data Movement instructions.md",
-    "Attachements/Pasted image 20260714174048.png",
+    "Attachements/Pasted image 20260715083251.png",
     "1- Program Structure And Execution/2- Machine level representation/3- Accessing information/1- intro.md",
+    "1- Program Structure And Execution/2- Machine level representation/3- Accessing information/4- Data movement examples.md",
+    "1- Program Structure And Execution/2- Machine level representation/3- Accessing information/2- Operand specifiers.md",
+    "1- Program Structure And Execution/2- Machine level representation/1- Program encodings/2- Machine level code.md",
+    "1- Program Structure And Execution/2- Machine level representation/1- Program encodings/3- Code examples.md",
+    "1- Program Structure And Execution/2- Machine level representation/2- Data formats/1- Data format.md",
+    "1- Program Structure And Execution/1- Representing and Manipulating Informations/3- Integer Arithmetic/5- Twos Complement negation.md",
+    "1- Program Structure And Execution/2- Machine level representation/3- Accessing information/3- Data Movement instructions.md",
+    "Attachements/Pasted image 20260715080208.png",
+    "Attachements/Pasted image 20260715080013.png",
+    "Attachements/Pasted image 20260714180002.png",
+    "Attachements/Pasted image 20260714174048.png",
     "Attachements/Pasted image 20260714172936.png",
     "1- Program Structure And Execution/2- Machine level representation/2- Data formats/2- Accessing information.md",
-    "1- Program Structure And Execution/2- Machine level representation/2- Data formats/1- Data format.md",
     "1- Program Structure And Execution/2- Machine level representation/3- Accessing information",
     "Attachements/Pasted image 20260714171912.png",
-    "1- Program Structure And Execution/2- Machine level representation/1- Program encodings/3- Code examples.md",
     "1- Program Structure And Execution/2- Machine level representation/2- Data formats",
     "Attachements/Pasted image 20260713111322.png",
     "Attachements/Pasted image 20260713111045.png",
     "1- Program Structure And Execution/2- Machine level representation/1- Program encodings/4- Notes on formating.md",
     "Attachements/Pasted image 20260713110006.png",
     "Attachements/Pasted image 20260713105919.png",
-    "1- Program Structure And Execution/2- Machine level representation/1- Program encodings/2- Machine level code.md",
-    "Attachements/Pasted image 20260712094611.png",
     "1- Program Structure And Execution/2- Machine level representation/1- Program encodings/1- intro.md",
     "1- Program Structure And Execution/1- Representing and Manipulating Informations/4- Floating Points/6- Floating point in C.md",
     "1- Program Structure And Execution/2- Machine level representation/1- Program encodings",
     "1- Program Structure And Execution/2- Machine level representation",
-    "Attachements/Pasted image 20260711111228.png",
     "1- Program Structure And Execution/1- Representing and Manipulating Informations/4- Floating Points/5- Floating point operations.md",
-    "Attachements/Pasted image 20260711110648.png",
     "1- Program Structure And Execution/1- Representing and Manipulating Informations/4- Floating Points/4- Rounding.md",
     "1- Program Structure And Execution/1- Representing and Manipulating Informations/4- Floating Points/3- IEEE floating point representation.md",
     "1- Program Structure And Execution/1- Representing and Manipulating Informations/4- Floating Points/2- Fractional Binary Numbers.md",
@@ -239,13 +239,11 @@
     "div16.c",
     "1- Program Structure And Execution/1- Representing and Manipulating Informations/3- Integer Arithmetic/7- Twos complement multiplication.md",
     "1- Program Structure And Execution/1- Representing and Manipulating Informations/3- Integer Arithmetic/6- Unsigned multiplication.md",
-    "1- Program Structure And Execution/1- Representing and Manipulating Informations/3- Integer Arithmetic/5- Twos Complement negation.md",
     "1- Program Structure And Execution/1- Representing and Manipulating Informations/3- Integer Arithmetic/2- Unsigned negation.md",
     "1- Program Structure And Execution/1- Representing and Manipulating Informations/2- Integer Representation/4- Twos complement encoding.md",
     "1- Program Structure And Execution/1- Representing and Manipulating Informations/3- Integer Arithmetic/4- Note about signed and unsigned addition.md",
     "C/tadd_ok.c~",
     "C/makefile~",
-    "1- Program Structure And Execution/1- Representing and Manipulating Informations/3- Integer Arithmetic/3- Two's Complement addition.md",
-    "1- Program Structure And Execution/1- Representing and Manipulating Informations/2- Integer Representation/5- Conversion between signed and unsigned.md"
+    "1- Program Structure And Execution/1- Representing and Manipulating Informations/3- Integer Arithmetic/3- Two's Complement addition.md"
   ]
 }
