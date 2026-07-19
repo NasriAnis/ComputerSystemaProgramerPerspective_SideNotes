@@ -106,8 +106,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 275.5,
-    "collapsed": true
+    "width": 275.5
   },
   "right": {
     "id": "2da8473828de00a1",
@@ -212,12 +211,14 @@
       "bases:Create new base": false
     }
   },
-  "active": "6b14911354465ee9",
+  "active": "33a43273735f4c0e",
   "lastOpenFiles": [
-    "1- Program Structure And Execution/2- Machine level representation/4- Arithmetic and logical operations/3- Shift operations.md",
-    "1- Program Structure And Execution/2- Machine level representation/4- Arithmetic and logical operations/4- Special arithmetic operations.md",
+    "1- Program Structure And Execution/2- Machine level representation/5- Control",
     "1- Program Structure And Execution/2- Machine level representation/4- Arithmetic and logical operations/0- Intro.md",
     "1- Program Structure And Execution/2- Machine level representation/3- Accessing information/1- intro.md",
+    "1- Program Structure And Execution/2- Machine level representation/4- Arithmetic and logical operations/4- Special arithmetic operations.md",
+    "Attachements/Pasted image 20260719220428.png",
+    "1- Program Structure And Execution/2- Machine level representation/4- Arithmetic and logical operations/3- Shift operations.md",
     "Attachements/Pasted image 20260718085312.png",
     "1- Program Structure And Execution/2- Machine level representation/3- Accessing information/3- Data Movement instructions.md",
     "Attachements/Pasted image 20260718083548.png",
@@ -233,7 +234,6 @@
     "Attachements/Pasted image 20260716164410.png",
     "1- Program Structure And Execution/2- Machine level representation/3- Accessing information/4- Data movement examples.md",
     "Attachements/Pasted image 20260716163000.png",
-    "Attachements/Pasted image 20260715083251.png",
     "1- Program Structure And Execution/2- Machine level representation/3- Accessing information/2- Operand specifiers.md",
     "1- Program Structure And Execution/2- Machine level representation/1- Program encodings/2- Machine level code.md",
     "1- Program Structure And Execution/2- Machine level representation/1- Program encodings/3- Code examples.md",
@@ -258,7 +258,6 @@
     "C/a.out",
     "C/div16.c",
     "div16.c",
-    "1- Program Structure And Execution/1- Representing and Manipulating Informations/3- Integer Arithmetic/7- Twos complement multiplication.md",
     "C/tadd_ok.c~"
   ]
 }
