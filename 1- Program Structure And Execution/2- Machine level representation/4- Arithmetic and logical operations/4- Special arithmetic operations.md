@@ -25,20 +25,42 @@ store_uprod:
 	 ret
 ```
 
-observe that storing the result involve two `movq` instructions, one for the low-order 8 bytes (line 4), and one for the high-order 8 bytes (line 5). Since the code is generated for a little-endian machine, the high-order bytes are stored at higher addresses, as indicated by the address specification 8(%rdi).
+observe that storing the result involve two `movq` instructions, one for the low-order 8 bytes (line 4), and one for the high-order 8 bytes (line 5). Since the code is generated for a little-endian machine, the high-order bytes are stored at higher addresses, as indicated by the address specification `8(%rdi)`.
 
-The signed division instruction idivl takes as its dividend the 128-bit quantity in registers %rdx (high-order 64 bits) and %rax (low-order 64 bits). The divisor is given as the instruction operand. The instruction stores the quotient in register %rax and the remainder in register %rdx.
+The signed division instruction `idivl` takes as its dividend the 128-bit quantity in registers `%rdx` (high-order 64 bits) and `%rax` (low-order 64 bits). The divisor is given as the instruction operand. The instruction stores the quotient in register `%rax` and the remainder in register `%rdx`.
 
 Same for divide it exist only single operand divide instructions:
 
-**`divl`** — 32-bit division
-
+**`divl`**  32-bit division
 - Divides a 64-bit dividend (in `edx:eax`, with `edx` as the high 32 bits and `eax` as the low 32 bits) by a 32-bit divisor.
 - Result: quotient in `eax`, remainder in `edx`.
 - Example: `divl %ebx` computes `edx:eax / ebx`.
 
-**`divq`** — 64-bit division
-
+**`divq`**  64-bit division
 - Divides a 128-bit dividend (in `rdx:rax`, with `rdx` as the high 64 bits and `rax` as the low 64 bits) by a 64-bit divisor.
 - Result: quotient in `rax`, remainder in `rdx`.
 - Example: `divq %rbx` computes `rdx:rax / rbx`.
+
+Some examples:
+```
+void remdiv(long x, long y,
+	long *qp, long *rp) {
+		long q = x/y;
+		long r = x%y;
+		*qp = q;
+		*rp = r;
+}
+```
+that compiles to the following assembly code:
+```
+void remdiv(long x, long y, long *qp, long *rp)
+x in %rdi, y in %rsi, qp in %rdx, rp in %rcx
+remdiv:
+	 movq %rdx, %r8    Copy qp
+	 movq %rdi, %rax   Move x to lower 8 bytes of dividend
+	 cqto               Sign-extend to upper 8 bytes of dividend
+	 idivq %rsi         Divide by y
+	 movq %rax, (%r8)   Store quotient at qp
+	 movq %rdx, (%rcx)  Store remainder at rp
+	 ret
+```
